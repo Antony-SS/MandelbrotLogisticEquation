@@ -1,0 +1,1 @@
+Saw a video about the Mandelbrot set and was curious as to why this set is a thing.  Did some research and found that the logistic equation I explore in this jupyter notebook is what it arises from.  Would love to explore more when I have time.
