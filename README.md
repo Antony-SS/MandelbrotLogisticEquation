@@ -1,6 +1,4 @@
-Saw a video about the Mandelbrot set which piqued my curiousity.  Did some research and figured out that it arises from a logistic equation.  
-
-This jupyter notebook explores that a little.  
+Saw a video about the Mandelbrot set which piqued my curiousity.  This jupyter notebook explores the logistic equation behind the mandelbrot set.  
 
 I use populations in the notebook as an example of a real world application of a logistic equation.  Makes it easier to wrap your head around.
 
