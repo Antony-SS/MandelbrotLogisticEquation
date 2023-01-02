@@ -1,4 +1,4 @@
-Saw a video about the Mandelbrot set and was curious as to why this set is a thing.  Did some research and figured out that it arises from a logistic equation.  
+Saw a video about the Mandelbrot set which piqued my curiousity.  Did some research and figured out that it arises from a logistic equation.  
 
 This jupyter notebook explores that a little.  
 
